@@ -25,6 +25,31 @@
 	<ValidationCacheItem File="Y:\Desktop\TestSbprojekt\TestSbprojekt.crossover.wsettings" DateLow="3647935232" DateHigh="30545283"/>
 	<ValidationCacheItem File="Y:\Desktop\TestSbprojekt\TestSbprojekt.wproj" DateLow="1032902528" DateHigh="30545282"/>
 	<ValidationCacheItem File="Y:\Desktop\TestSbprojekt\Triggers\Default Work Unit.wwu" DateLow="1032902528" DateHigh="30545282"/>
+	<ValidationCacheItem File="Y:\WwiseTest\Assets\Wwise\WwiseTest\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="4123033344" DateHigh="30545286"/>
+	<ValidationCacheItem File="Y:\WwiseTest\Assets\Wwise\WwiseTest\Attenuations\Default Work Unit.wwu" DateLow="4123033344" DateHigh="30545286"/>
+	<ValidationCacheItem File="Y:\WwiseTest\Assets\Wwise\WwiseTest\Audio Devices\Default Work Unit.wwu" DateLow="4123033344" DateHigh="30545286"/>
+	<ValidationCacheItem File="Y:\WwiseTest\Assets\Wwise\WwiseTest\Control Surface Sessions\Default Work Unit.wwu" DateLow="4123033344" DateHigh="30545286"/>
+	<ValidationCacheItem File="Y:\WwiseTest\Assets\Wwise\WwiseTest\Conversion Settings\Default Work Unit.wwu" DateLow="4123033344" DateHigh="30545286"/>
+	<ValidationCacheItem File="Y:\WwiseTest\Assets\Wwise\WwiseTest\Conversion Settings\Factory Conversion Settings.wwu" DateLow="4123033344" DateHigh="30545286"/>
+	<ValidationCacheItem File="Y:\WwiseTest\Assets\Wwise\WwiseTest\Dynamic Dialogue\Default Work Unit.wwu" DateLow="4123033344" DateHigh="30545286"/>
+	<ValidationCacheItem File="Y:\WwiseTest\Assets\Wwise\WwiseTest\Effects\Default Work Unit.wwu" DateLow="4123033344" DateHigh="30545286"/>
+	<ValidationCacheItem File="Y:\WwiseTest\Assets\Wwise\WwiseTest\Effects\Factory Effects.wwu" DateLow="4123033344" DateHigh="30545286"/>
+	<ValidationCacheItem File="Y:\WwiseTest\Assets\Wwise\WwiseTest\Events\Default Work Unit.wwu" DateLow="4123033344" DateHigh="30545286"/>
+	<ValidationCacheItem File="Y:\WwiseTest\Assets\Wwise\WwiseTest\Game Parameters\Default Work Unit.wwu" DateLow="4123033344" DateHigh="30545286"/>
+	<ValidationCacheItem File="Y:\WwiseTest\Assets\Wwise\WwiseTest\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="4123033344" DateHigh="30545286"/>
+	<ValidationCacheItem File="Y:\WwiseTest\Assets\Wwise\WwiseTest\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="4123033344" DateHigh="30545286"/>
+	<ValidationCacheItem File="Y:\WwiseTest\Assets\Wwise\WwiseTest\Mixing Sessions\Default Work Unit.wwu" DateLow="4123033344" DateHigh="30545286"/>
+	<ValidationCacheItem File="Y:\WwiseTest\Assets\Wwise\WwiseTest\Modulators\Default Work Unit.wwu" DateLow="4123033344" DateHigh="30545286"/>
+	<ValidationCacheItem File="Y:\WwiseTest\Assets\Wwise\WwiseTest\Presets\Default Work Unit.wwu" DateLow="4123033344" DateHigh="30545286"/>
+	<ValidationCacheItem File="Y:\WwiseTest\Assets\Wwise\WwiseTest\Queries\Default Work Unit.wwu" DateLow="4123033344" DateHigh="30545286"/>
+	<ValidationCacheItem File="Y:\WwiseTest\Assets\Wwise\WwiseTest\Queries\Factory Queries.wwu" DateLow="4123033344" DateHigh="30545286"/>
+	<ValidationCacheItem File="Y:\WwiseTest\Assets\Wwise\WwiseTest\SoundBanks\Default Work Unit.wwu" DateLow="4123033344" DateHigh="30545286"/>
+	<ValidationCacheItem File="Y:\WwiseTest\Assets\Wwise\WwiseTest\Soundcaster Sessions\Default Work Unit.wwu" DateLow="4123033344" DateHigh="30545286"/>
+	<ValidationCacheItem File="Y:\WwiseTest\Assets\Wwise\WwiseTest\States\Default Work Unit.wwu" DateLow="4123033344" DateHigh="30545286"/>
+	<ValidationCacheItem File="Y:\WwiseTest\Assets\Wwise\WwiseTest\Switches\Default Work Unit.wwu" DateLow="4123033344" DateHigh="30545286"/>
+	<ValidationCacheItem File="Y:\WwiseTest\Assets\Wwise\WwiseTest\TestSbprojekt.crossover.wsettings" DateLow="4123033344" DateHigh="30545286"/>
+	<ValidationCacheItem File="Y:\WwiseTest\Assets\Wwise\WwiseTest\TestSbprojekt.wproj" DateLow="4123033344" DateHigh="30545286"/>
+	<ValidationCacheItem File="Y:\WwiseTest\Assets\Wwise\WwiseTest\Triggers\Default Work Unit.wwu" DateLow="4123033344" DateHigh="30545286"/>
 	<ValidationCacheItem File="Z:\Volumes\Macintosh HD\Unity Projects\wwiseTEST_RTCP\wwiseProject\TestSbprojekt\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1032902528" DateHigh="30545282"/>
 	<ValidationCacheItem File="Z:\Volumes\Macintosh HD\Unity Projects\wwiseTEST_RTCP\wwiseProject\TestSbprojekt\Attenuations\Default Work Unit.wwu" DateLow="1032902528" DateHigh="30545282"/>
 	<ValidationCacheItem File="Z:\Volumes\Macintosh HD\Unity Projects\wwiseTEST_RTCP\wwiseProject\TestSbprojekt\Audio Devices\Default Work Unit.wwu" DateLow="1032902528" DateHigh="30545282"/>
