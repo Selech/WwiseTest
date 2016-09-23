@@ -16,10 +16,15 @@
 			<ShortName>nysb</ShortName>
 			<Path>nysb.bnk</Path>
 			<IncludedEvents>
+				<Event Id="1117071627" Name="Play_Ambience1" ObjectPath="\Events\Default Work Unit\Play_Ambience1"/>
 				<Event Id="1945722105" Name="Play_Bell" ObjectPath="\Events\Default Work Unit\Play_Bell"/>
 				<Event Id="3858275350" Name="Play_Snap" ObjectPath="\Events\Default Work Unit\Play_Snap"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
+				<File Id="237987044" Language="SFX">
+					<ShortName>Ambience1.wav</ShortName>
+					<Path>SFX/Ambience1_9E69E797.wem</Path>
+				</File>
 				<File Id="438785130" Language="SFX">
 					<ShortName>UI_Snap.wav</ShortName>
 					<Path>SFX/UI_Snap_9E69E797.wem</Path>
